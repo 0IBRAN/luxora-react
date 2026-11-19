@@ -931,8 +931,3 @@ footer > a:last-child:hover {
     transform: none;
   }
 }
-
-git init
-git add .
-git commit -m "Initial LUXORA website"
-git branch -M main
